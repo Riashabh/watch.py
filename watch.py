@@ -55,6 +55,12 @@ def age_days(cell):
     return n * 30 if unit.startswith("mo") else n * 7 if unit.startswith("w") else n if unit.startswith("d") else 0
 
 
+def role_key(job):
+    # Second identity: same company + role = same job even if its link changed.
+    norm = lambda t: re.sub(r"[^a-z0-9]+", " ", t.lower()).strip()
+    return f"key:{norm(job['company'])}|{norm(job['role'])}"
+
+
 def wanted(job):
     if job["age"] > MAX_AGE_DAYS:
         return False
@@ -81,11 +87,11 @@ def main():
         sys.exit(f"Only parsed {len(jobs)} jobs, refusing to continue")
 
     first_run = not os.path.exists(SEEN_FILE)
-    seen = set() if first_run else set(open(SEEN_FILE).read().split())
-    new = [j for j in jobs if j["id"] not in seen]
+    seen = set() if first_run else {l.strip() for l in open(SEEN_FILE) if l.strip()}
+    new = [j for j in jobs if j["id"] not in seen and role_key(j) not in seen]
 
     with open(SEEN_FILE, "w") as f:
-        f.write("\n".join(sorted(seen | {j["id"] for j in jobs})) + "\n")
+        f.write("\n".join(sorted(seen | {j["id"] for j in jobs} | {role_key(j) for j in jobs})) + "\n")
 
     if first_run:
         print(f"Seeded {len(jobs)} jobs, no notifications sent")
