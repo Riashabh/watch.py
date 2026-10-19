@@ -10,6 +10,9 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 # Optional: comma-separated, case-insensitive. Empty = notify on everything.
 KEYWORDS = [k.strip().lower() for k in os.environ.get("KEYWORDS", "").split(",") if k.strip()]
 MAX_SINGLE = 8  # above this, send one digest instead of N pushes
+# Upstream edits old postings (new URL/location), which looks like a new row.
+# Only alert on rows whose Age column says they were actually posted recently.
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS") or 3)
 
 HREF = re.compile(r'href="([^"]+)"')
 TAG = re.compile(r"<[^>]+>")
@@ -39,11 +42,22 @@ def parse(md):
             "location": cells[2],
             "salary": cells[3] if has_salary else "",
             "section": section,
+            "age": age_days(cells[-1]),
         })
     return jobs
 
 
+def age_days(cell):
+    m = re.match(r"(\d+)\s*([a-z]*)", cell.strip().lower())
+    if not m:
+        return 0
+    n, unit = int(m.group(1)), m.group(2)
+    return n * 30 if unit.startswith("mo") else n * 7 if unit.startswith("w") else n if unit.startswith("d") else 0
+
+
 def wanted(job):
+    if job["age"] > MAX_AGE_DAYS:
+        return False
     if not KEYWORDS:
         return True
     text = f"{job['company']} {job['role']} {job['location']}".lower()
@@ -87,7 +101,7 @@ def main():
         return
     for j in hits:
         extra = f" | {j['salary']}" if j["salary"] else ""
-        push(f"{j['company']} [{j['section']}]", f"{j['role']}\n{j['location']}{extra}", j["id"])
+        push(f"{j['company']} [{j['section']}]", f"{j['role']}\n{j['location']}{extra} | posted {j['age']}d ago", j["id"])
 
 
 if __name__ == "__main__":

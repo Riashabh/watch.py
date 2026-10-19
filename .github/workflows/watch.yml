@@ -24,6 +24,7 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           KEYWORDS: ${{ vars.KEYWORDS }}
+          MAX_AGE_DAYS: ${{ vars.MAX_AGE_DAYS }}
       - name: Save state
         run: |
           git config user.name "job-watch"
