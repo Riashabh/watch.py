@@ -103,6 +103,7 @@ https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002
 https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1
+https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---San-Diego-CA/Software-Application-Tester_JR2026524037-1
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382
@@ -113,6 +114,7 @@ https://c3.ai/job-description/8801434002?gh_jid=8801434002
 https://c3.ai/job-description/8879453002?gh_jid=8879453002
 https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/Junior-Cyber-Software-Engineer_332339
 https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/JR-ServiceNow-Developer_332379
+https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lisle-IL-US/Software-Engineer_332202
 https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049
 https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295
 https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249
@@ -288,6 +290,7 @@ https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Color
 https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168481-1
 https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168475
 https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168480
+https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168481
 https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829
 https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626-2
 https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-2
@@ -605,6 +608,7 @@ https://kenwayconsulting.pinpointhq.com/en/postings/270ff333-e029-4ead-b033-07f7
 https://kla.wd1.myworkdayjobs.com/en-US/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057
 https://kla.wd1.myworkdayjobs.com/en-US/annarbor/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-2
 https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1
+https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-3
 https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711
 https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer--High-Performance-Distributed-Computing-_2641774
 https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808
@@ -811,6 +815,9 @@ https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Fort-Lauderdale-F
 https://studentopportunities-lutron.icims.com/jobs/5453/project-application-software-engineer-2027---lehigh-valley%2c-pa/job
 https://studentopportunities-lutron.icims.com/jobs/5454/project-embedded-firmware-engineer-2027---lehigh-valley%2c-pa/job
 https://studentopportunities-lutron.icims.com/jobs/5470/project-application-software-engineer-2027---philadelphia%2c-pa/job
+https://studentopportunities-lutron.icims.com/jobs/5471/project-application-software-engineer-2027---boston%2c-ma/job
+https://studentopportunities-lutron.icims.com/jobs/5476/project-embedded-firmware-engineer-2027---austin%2c-tx/job
+https://studentopportunities-lutron.icims.com/jobs/5477/project-embedded-firmware-engineer-2027---boynton-beach%2c-fl/job
 https://studentopportunities-lutron.icims.com/jobs/5478/project-embedded-software-engineer-2027---boston%2c-ma/job
 https://studentopportunities-lutron.icims.com/jobs/5479/project-embedded-software-engineer-2027---austin%2c-tx/job
 https://study.com/pages/jobApplication.html/?gh_jid=5429313008
