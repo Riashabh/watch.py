@@ -154,6 +154,7 @@ https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002
 https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002
 https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002
 https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002
+https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-1
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Mission-Systems--MS--Software-Stores-Management-Computing--SMS--Manager_JR2026520964-1
@@ -927,7 +928,9 @@ https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/Unite
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499
+https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380
+https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer_R10251662
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306
@@ -1854,11 +1857,13 @@ key:nightwing|software developer
 key:nooks|software engineer new grad
 key:northrop grumman|2026 associate embedded software engineer dulles va
 key:northrop grumman|2027 associate embedded software engineer beavercreek ohio
+key:northrop grumman|2027 associate embedded software engineer morrisville nc
 key:northrop grumman|2027 associate s w embedded engineer annapolis md
 key:northrop grumman|2027 associate software engineer pathways linthicum ma
 key:northrop grumman|2027 associate software quality engineer san diego
 key:northrop grumman|2027 software engineer dulles va
 key:northrop grumman|2027 software engineer morrisville nc
+key:northrop grumman|associate ai software engineer ai software engineer
 key:northrop grumman|associate cloud software engineer level 1
 key:northrop grumman|associate software engineer software engineer
 key:northrop grumman|calling all embedded software engineers
@@ -2091,6 +2096,7 @@ key:sopra steria i2s|software entwickler cloud native public sector m w d
 key:spacex|ai software engineer vehicle engineering
 key:spacex|application software engineer employee experience
 key:spacex|application software engineer flight software
+key:spacex|application software engineer launch software
 key:spacex|software engineer ai infrastructure starshield
 key:spacex|space operations training engineer full stack software
 key:spruce|full stack software engineer new grad remote
