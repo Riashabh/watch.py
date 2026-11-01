@@ -8,6 +8,7 @@ https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003
 https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Cincinnati-4th-Street-Corp/Junior-DevOps-Engineer_R00332498
 https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/Associate-Guidewire-PolicyCenter-Developer_JR202639168
 https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083
+https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007
 https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972
 https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/IC-2027-Site-Reliability-Engineer_R016336
 https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/Small-Satellite-Embedded-Software-Engineer_R016286-1
@@ -235,6 +236,8 @@ https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS
 https://cae.wd3.myworkdayjobs.com/en-US/career/job/Orlando/Software-Support-Engineering-Specialist-I_122349
 https://calistacorp.wd1.myworkdayjobs.com/en-US/yulista/job/Huntsville-AL/STSY---Azure-Cloud-Administrator-I_JR109459
 https://calyxcontainers.applytojob.com/apply/JeajrFSAfK/Software-Tester-Entry-Level
+https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/cambridge_associates/job/Boston/Jr-Developer_JR0000457
+https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/handshake/job/Boston/Jr-Developer_JR0000457-2
 https://campaignmonitor.wd5.myworkdayjobs.com/en-US/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487
 https://career-schwab.icims.com/jobs/126708/associate---java-developer/job
 https://career-schwab.icims.com/jobs/127949/associate-software-engineer/job
@@ -1268,6 +1271,7 @@ https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Mariett
 https://thomsonreuters.wd5.myworkdayjobs.com/en-US/external_career_site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204005
 https://thomsonreuters.wd5.myworkdayjobs.com/en-US/external_career_site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694
 https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Lancaster-CA-93536/Part-Time-Customer-Experience-Coordinator--Front-End-_REQ165849-1
+https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/San-Marcos-TX-78666/Customer-Experience-Coordinator--FRONT-END_REQ172722
 https://tjx.wd1.myworkdayjobs.com/en-US/tjx_private_postings/job/Lancaster-CA-93536/Part-Time-Customer-Experience-Coordinator--Front-End-_REQ165849
 https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071
 https://toyota.wd503.myworkdayjobs.com/en-US/tmna_professional/job/Plano-Texas/Software-Engineer_10334262
@@ -1448,6 +1452,7 @@ key:aerospace|2027 aerospace software and simulation engineer
 key:aerospace|2027 rpo software developer analyst
 key:aerospace|2027 vehicle systems software engineer
 key:aerospace|ic 2027 site reliability engineer
+key:aerospace|ic 2027 software integration engineer
 key:aerospace|junior full stack engineer
 key:aerospace|small satellite embedded software engineer
 key:aerovironment|associate software engineer
@@ -1679,6 +1684,7 @@ key:cae|ats software engineer
 key:cae|mts software engineer
 key:cae|software support engineering specialist i
 key:calyx containers|software tester entry level
+key:cambridge associates|jr developer
 key:caris life sciences|associate software engineer
 key:carnegie mellon university|systems software engineer computing services
 key:carter s|ai developer
@@ -2525,6 +2531,7 @@ key:tiktok|software engineer graduate tiktok search data infra 2027 start
 key:tiktok|software engineer graduate transaction platform 2027 start
 key:tiktok|software engineer graduate video on demand algorithm 2027 start
 key:tiktok|software engineer mobile engineer graduate ads core demonstration 2027 start
+key:tjx|customer experience coordinator front end
 key:tjx|part time customer experience coordinator front end
 key:tmeic corporation americas|associate software developer ai ee26117
 key:together ai|software engineer new grad 2027
