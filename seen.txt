@@ -119,6 +119,7 @@ https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer--Junior_R0248284
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Power-Platform-Developer_R0251102
 https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000003499
+https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694
 https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057
 https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51015
 https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51271
@@ -251,6 +252,7 @@ https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer--
 https://careers-bruno.icims.com/jobs/3336/software-developer---ai-focus/job
 https://careers-cadmusgroup.icims.com/jobs/3254/jr.-full-stack-developer/job
 https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job
+https://careers-cooperhealth.icims.com/jobs/86865/reporting-and-analytics-developer/job
 https://careers-cotiviti.icims.com/jobs/20510/associate-quality-analyst---backend/job
 https://careers-cotiviti.icims.com/jobs/20757/associate-software-engineer/job
 https://careers-dewberry.icims.com/jobs/16384/junior-gis-developer/job
@@ -1081,6 +1083,7 @@ https://nfocussolutions.applytojob.com/apply/zQW3V3Huuw/Web-Content-Developer
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823
+https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Calling-all-Embedded-Software-Engineers-_R10253219
 https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890
@@ -1664,6 +1667,7 @@ key:boston engineering|embedded software engineer
 key:brain|software engineer i firmware
 key:bright silicon technologies|digital signal processing software engineer
 key:brown brown|front end adjuster
+key:brown brown|junior hubspot developer
 key:bruno|software developer ai focus
 key:bti solutions|junior full stack developer
 key:build ai|software engineer generalist
@@ -1745,6 +1749,7 @@ key:compassion|software support specialist temporary
 key:composio|fullstack engineer product team new grad
 key:compugroup medical se co kgaa|software support specialist i
 key:comscore|software engineer
+key:cooper university health care|reporting and analytics developer
 key:copeland|software application engineer
 key:coreweave|software engineer inference
 key:cortrucent|junior full stack engineer
@@ -2159,6 +2164,7 @@ key:northrop grumman|2027 associate embedded software engineer beavercreek ohio
 key:northrop grumman|2027 associate embedded software engineer morrisville nc
 key:northrop grumman|2027 associate s w embedded engineer annapolis md
 key:northrop grumman|2027 associate software engineer azusa ca
+key:northrop grumman|2027 associate software engineer bellevue ne
 key:northrop grumman|2027 associate software engineer boulder co
 key:northrop grumman|2027 associate software engineer pathways linthicum ma
 key:northrop grumman|2027 associate software engineer software engineer colorado springs co
