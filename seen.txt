@@ -43,6 +43,7 @@ https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Eng
 https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineer-II_R2634157
 https://americas-cookmedical.icims.com/jobs/20446/software-engineer-1%2c-full-stack/job
 https://americas-cookmedical.icims.com/jobs/20874/software-engineer-1%2c-full-stack/job
+https://amfam.wd1.myworkdayjobs.com/en-US/careers/job/MA-Boston/Associate-Technical-Engineer---Cloud-Technologies_R39872
 https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131
 https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680
 https://andrew-morgan.com/current-openings/?gh_jid=5389586008
@@ -105,12 +106,14 @@ https://apply.workable.com/bask-health-1/j/DFC51193B4/
 https://apply.workable.com/bipventures/j/75C9D6B9AF/
 https://apply.workable.com/credence/j/207F2F6631/
 https://apply.workable.com/credence/j/B04B763F35/
+https://apply.workable.com/dsn/j/AAF21352DA/
 https://apply.workable.com/evolve-security/j/862A8C87BC/
 https://apply.workable.com/flexcompute/j/9DB3D67B83/
 https://apply.workable.com/flexcompute/j/EF3D90A736/
 https://apply.workable.com/fssi/j/A5198D6F63/
 https://apply.workable.com/gramian/j/D88E19B47A/
 https://apply.workable.com/j-mack/j/998B336AFB/
+https://apply.workable.com/katmai/j/312A07C272/
 https://apply.workable.com/multimediallc/j/24DBCDDF27/
 https://apply.workable.com/oceancomm/j/912979C2F0/
 https://apply.workable.com/practicetek/j/4BF8AB81FC/
@@ -184,7 +187,9 @@ https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity-Engineer_R0253733
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Antonio-TX/DevOps-Engineer_R0253780
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer--Junior_R0248284
+https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer--Mid_R0253885
 https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Power-Platform-Developer_R0251102
+https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Software-Engineer_JR-208289-1
 https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000003499
 https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694
 https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-II_R-51813
@@ -277,6 +282,7 @@ https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002
 https://boards.greenhouse.io/spacex/jobs/8948735002?gh_jid=8948735002
 https://boards.greenhouse.io/spacex/jobs/8949395002?gh_jid=8949395002
 https://boards.greenhouse.io/spacex/jobs/8950626002?gh_jid=8950626002
+https://boards.greenhouse.io/spacex/jobs/8955898002?gh_jid=8955898002
 https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1
 https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-1
@@ -317,6 +323,7 @@ https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segu
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026529869
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Simulation---Test-Engineer---Millennium-Space-Systems_JR2026528041
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462
+https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135-2
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Software-Engineer--Associate-or-Experienced-_JR2026526264-1
@@ -327,6 +334,7 @@ https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Richard
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956
 https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046
+https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2
 https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2
 https://bracco.wd103.myworkdayjobs.com/en-US/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineer-I---Bracco-Medical-Technologies_JR100481
 https://brightsilicontechnologies.applytojob.com/apply/lUavU6VUxj/Embedded-Systems-Engineer-Early-Career
@@ -406,12 +414,14 @@ https://careers-firstambank.icims.com/jobs/3506/software-system-engineer-i/job
 https://careers-ftidefense.icims.com/jobs/7096/associate-software-developer-%e2%80%93-early-career---student-talent/job
 https://careers-ftidefense.icims.com/jobs/7097/associate-software-developer-%e2%80%93-transitioning-navy-service-members/job
 https://careers-garmin.icims.com/jobs/19740/job
+https://careers-garmin.icims.com/jobs/20133/job
 https://careers-garmin.icims.com/jobs/20363/job
 https://careers-garmin.icims.com/jobs/20379/job
 https://careers-garmin.icims.com/jobs/20475/job
 https://careers-garmin.icims.com/jobs/20501/job
 https://careers-garmin.icims.com/jobs/20524/job
 https://careers-garmin.icims.com/jobs/21288/job
+https://careers-garmin.icims.com/jobs/21486/job
 https://careers-garmin.icims.com/jobs/22181/job
 https://careers-garmin.icims.com/jobs/22218/job
 https://careers-gdms.icims.com/jobs/75056/embedded-software-engineer-%e2%80%93-entry-level/job
@@ -505,6 +515,7 @@ https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705
 https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962
 https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357
 https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350510
+https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350824
 https://careers.roblox.com/jobs/8072244?gh_jid=8072244
 https://careers.roblox.com/jobs/8115917?gh_jid=8115917
 https://careers.roblox.com/jobs/8123004?gh_jid=8123004
@@ -558,6 +569,7 @@ https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Cloud-Engineer-II--Full-Time----United-States_2031378
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Full-Stack-UI-Engineer--AI-Platforms--NC---Hybrid_2023063
+https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023065
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023066
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023069
 https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788
@@ -584,7 +596,9 @@ https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Systems-Software
 https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Integration-Developer--Azure_R-144479
 https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1
 https://coloradomesa.wd501.myworkdayjobs.com/en-US/cmustudentjobs/job/CMU-Main-Campus-Grand-Junction-CO/Jr-Software-Development--Utilities-Accounting---Summer_JR100144
+https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/CO---Englewood-183-Inverness-Dr-West/Entry-Level-Software-Engineer--Englewood--CO--ONSITE-4-Days-per-Week--FreeWheel_R445138
 https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Entry-Level-C---Software-Engineer--Reston--VA--ONSITE-2X-Week--FreeWheel_R449189
+https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Junior-C---Software-Engineer---2-Days-ONSITE---Reston--VA---FreeWheel_R449188-1
 https://compassion.wd5.myworkdayjobs.com/en-US/compassioncareers/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1
 https://comscore.wd5.myworkdayjobs.com/en-US/external/job/OR---Portland-Airport/Software-Engineer_REQ1765
 https://confluence.pinpointhq.com/en/postings/c7fe935e-f408-4892-a204-dfd7fd2f70d8
@@ -735,6 +749,7 @@ https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---AL-Huntsville/F
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---IL-Scott-Air-Force-Base/Junior-Developer_45430-1
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_44836
+https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---TX-San-Antonio/DevSecOps-Cloud-Engineer_42321
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42740
 https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Jr-OneStream-Developer_44095-1
@@ -754,6 +769,7 @@ https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL-
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Backend--Remote-_Req197124
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---ML---AI--REMOTE-_Req186094-1
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135
+https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Salesforce-Engineering--Remote-_Req199265
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req196927
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Supply-Chain-Sourcing-Core--Remote-_Req196309
 https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Supply-Chain-Sourcing-Core--Remote-_Req197159
@@ -821,8 +837,10 @@ https://impactadvisors.wd501.myworkdayjobs.com/en-US/impactadvisors/job/Chicago-
 https://impulsespace.pinpointhq.com/en/postings/c0221837-8793-4ff0-b8de-de869c3564a3
 https://independentsoftware.applytojob.com/apply/Dh3mY1P8Ox/Azure-Cloud-Engineer-Entry-Level
 https://independentsoftware.applytojob.com/apply/omj1OSmRUI/Azure-Cloud-Engineer-Junior-Level
+https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineer_JY2627775
 https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Dallas-TX/Associate-Software-Implementation-Analyst_JR103477
 https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439
+https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103608
 https://insteelindustries.applytojob.com/apply/Nn8XU74FeL/Applications-Developer-I
 https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Automated-Material-Handling-Systems--AMHS--Software-Engineer_JR0286980
 https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523
@@ -878,6 +896,8 @@ https://job-boards.greenhouse.io/affirm/jobs/8017342003
 https://job-boards.greenhouse.io/affirm/jobs/8039471003
 https://job-boards.greenhouse.io/affirm/jobs/8181183003
 https://job-boards.greenhouse.io/affirm/jobs/8181185003
+https://job-boards.greenhouse.io/affirm/jobs/8201469003
+https://job-boards.greenhouse.io/affirm/jobs/8201471003
 https://job-boards.greenhouse.io/alarmcom/jobs/8622530002
 https://job-boards.greenhouse.io/alarmcom/jobs/8923631002
 https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007
@@ -917,6 +937,8 @@ https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008
 https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007
 https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003
 https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003
+https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002
+https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002
 https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004
 https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004
 https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006
@@ -1042,6 +1064,7 @@ https://job-boards.greenhouse.io/yext/jobs/8224109
 https://job-boards.greenhouse.io/yext/jobs/8296161
 https://job-boards.greenhouse.io/yugabyte/jobs/4683621006
 https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108
+https://job-boards.greenhouse.io/zscaler/jobs/5283494007
 https://jobs-bylight.icims.com/jobs/11579/software-engineer-i/job
 https://jobs-bylight.icims.com/jobs/11799/software-engineer-i/job
 https://jobs-bylight.icims.com/jobs/11800/software-engineer-i/job
@@ -1065,6 +1088,8 @@ https://jobs.apple.com/en-us/details/200692907-3543
 https://jobs.apple.com/en-us/details/200693002-0836
 https://jobs.apple.com/en-us/details/200693087-3337
 https://jobs.apple.com/en-us/details/200694842-0836
+https://jobs.apple.com/en-us/details/200696147-0365
+https://jobs.apple.com/en-us/details/200696147-3956
 https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e
 https://jobs.ashbyhq.com/Agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e
 https://jobs.ashbyhq.com/Anori/5a86f1e2-2e30-49d7-853f-5083e8b558de
@@ -1218,6 +1243,7 @@ https://jobs.jobvite.com/isoftstone/job/oB4MAfwL
 https://jobs.jobvite.com/laborie/job/oQOXAfwV
 https://jobs.jobvite.com/metaphaseconsulting/job/o077Afwy
 https://jobs.jobvite.com/monarchinvestment/job/o6WKAfw6
+https://jobs.jobvite.com/monarchinvestment/job/otd8Afw8
 https://jobs.jobvite.com/webmd/job/oepEAfwB
 https://jobs.lever.co/CesiumAstro/d56f6207-fc5b-421d-904d-4d2e9ff621bf
 https://jobs.lever.co/Ketch/9835fb73-d8c3-4b96-b499-2ce10bc70e57
@@ -1329,6 +1355,7 @@ https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-co
 https://jobs.smartrecruiters.com/ServiceNow/744000157571919-associate-software-engineer?oga=true
 https://jobs.smartrecruiters.com/ServiceNow/744000159509479-software-engineer-agent-eval-platform?oga=true
 https://jobs.smartrecruiters.com/ServiceNow/744000162190099-software-engineer-agentic-systems-moveworks?oga=true
+https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer?oga=true
 https://jobs.smartrecruiters.com/SibyllineLtd/744000160695405-embedded-security-operator-?oga=true
 https://jobs.smartrecruiters.com/Skyward1/744000159208369-software-quality-specialist?oga=true
 https://jobs.smartrecruiters.com/Skyward1/744000159491899-software-engineer-entry-level?oga=true
@@ -1387,7 +1414,9 @@ https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_264
 https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720
 https://kranzetechnologysolutions.applytojob.com/apply/narYNKlRdz/Android-Engineer
 https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer
+https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer
 https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808
+https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309
 https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-Firmware-Engineer_R-103111
 https://lava.breezy.hr/p/0c77e97d88ae-software-engineer
 https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Jr-Software-Engineer_R-00175979
@@ -1478,9 +1507,11 @@ https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Miss
 https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1
 https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Northridge-California-United-States-of-America/Data-Scientist--Software-Engineer-II_R-801953
 https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Northridge-California-United-States-of-America/Software-Test-Engineer-I_R-802522
+https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448
 https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R71062-1
 https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1
 https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875-1
+https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2
 https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R71062
 https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406
 https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875
@@ -1605,6 +1636,8 @@ https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-DC-Washington/Software-Developer---Junior--Team-01-_R0167603
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0171182
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0175782
+https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0176010
+https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0176011
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C--Software-Developer_R0174134
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C--Software-Developer_R0174137
 https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771
@@ -1620,6 +1653,8 @@ https://palomarproducts.applytojob.com/apply/aTfSEvOBcy/Software-Engineer-onsite
 https://parexel.wd1.myworkdayjobs.com/en-US/parexel_external_careers/job/United-States---Pennsylvania---Client-Onsite/Scientist-II---Laboratory-Informatics---VBA-Developer---FSP_R0000046423
 https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---Secret-required_R184134
 https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---TS-SCI-required_R182628
+https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Engineer_R188926-1
+https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Chantilly/DevOps-Engineer_R188937
 https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333
 https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1
 https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137491-1
@@ -1797,6 +1832,7 @@ https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/San-Marcos-TX-78666/Cus
 https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Tucson-AZ-85743/CEC-Front-End_REQ175961
 https://tjx.wd1.myworkdayjobs.com/en-US/tjx_private_postings/job/Lancaster-CA-93536/Part-Time-Customer-Experience-Coordinator--Front-End-_REQ165849
 https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071
+https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer_10340846
 https://toyota.wd503.myworkdayjobs.com/en-US/tmna_professional/job/Plano-Texas/Software-Engineer_10334262
 https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/Clarksville-Tennessee/Embedded-Software-Engineer_JR-16239-1
 https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/La-Crosse-Wisconsin/Associate-Embedded-SW-Engineer_JR-14625-1
@@ -2006,6 +2042,7 @@ https://www.amazon.jobs/jobs/10603740/apply
 https://www.amazon.jobs/jobs/10603741/apply
 https://www.amazon.jobs/jobs/10603765/apply
 https://www.amazon.jobs/jobs/10604291/apply
+https://www.amazon.jobs/jobs/10607027/apply
 https://www.amazon.jobs/jobs/10607218/apply
 https://www.amazon.jobs/jobs/10607230/apply
 https://www.amazon.jobs/jobs/10607403/apply
@@ -2013,10 +2050,13 @@ https://www.amazon.jobs/jobs/10607724/apply
 https://www.amazon.jobs/jobs/10607758/apply
 https://www.amazon.jobs/jobs/10607764/apply
 https://www.amazon.jobs/jobs/10607992/apply
+https://www.amazon.jobs/jobs/10607995/apply
 https://www.amazon.jobs/jobs/10608003/apply
 https://www.amazon.jobs/jobs/10608004/apply
 https://www.amazon.jobs/jobs/10608005/apply
 https://www.amazon.jobs/jobs/10608023/apply
+https://www.amazon.jobs/jobs/10608026/apply
+https://www.amazon.jobs/jobs/10608034/apply
 https://www.amazon.jobs/jobs/10608035/apply
 https://www.amazon.jobs/jobs/10608037/apply
 https://www.amazon.jobs/jobs/10608038/apply
@@ -2029,6 +2069,8 @@ https://www.amazon.jobs/jobs/10608789/apply
 https://www.amazon.jobs/jobs/10608841/apply
 https://www.amazon.jobs/jobs/10608848/apply
 https://www.amazon.jobs/jobs/10609773/apply
+https://www.amazon.jobs/jobs/10610384/apply
+https://www.amazon.jobs/jobs/10610933/apply
 https://www.asm.com/open-vacancies/?gh_jid=4876722101
 https://www.asm.com/open-vacancies/?gh_jid=4948195101
 https://www.asm.com/open-vacancies/?gh_jid=5019821101
@@ -2061,6 +2103,7 @@ https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004
 https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004
 https://www.janestreet.com/join-jane-street/position/8594541002
 https://www.klaviyo.com/careers/jobs/7792539003?gh_jid=7792539003
+https://www.metacareers.com/jobs/1613643980303295
 https://www.oldmissioncapital.com/careers/?gh_jid=7796048003
 https://www.oldmissioncapital.com/careers/?gh_jid=7989374003
 https://www.orioninc.com/careers/job/?gh_jid=4712080006
@@ -2136,6 +2179,7 @@ key:affirm|analyst early career full stack
 key:affirm|software engineer early career nyc
 key:affirm|software engineer early career sf
 key:affirm|software engineer i backend continuous delivery
+key:affirm|software engineer i backend streaming infra
 key:affirm|software engineer i fullstack search
 key:agave|full stack software engineer new grad
 key:agile defense|software developer i
@@ -2199,7 +2243,10 @@ key:amazon|software dev engineer ii amz10254945
 key:amazon|software dev engineer ii amz10563956 aws field experience
 key:amazon|software dev engineer ii amz10563957
 key:amazon|software dev engineer ii amz10563965
+key:amazon|software dev engineer ii amz10563969
 key:amazon|software dev engineer ii amz10563972
+key:amazon|software dev engineer ii amz10564002
+key:amazon|software dev engineer ii amz10564009
 key:amazon|software dev engineer ii amz10573435
 key:amazon|software dev engineer ii amz10587268
 key:amazon|software dev engineer ii amz10587293
@@ -2243,9 +2290,11 @@ key:amazon|software dev engineer iii amz10593751
 key:amazon|software dev engineer iii amz10593774
 key:amazon|software dev engineer iii amz10593775
 key:amazon|software dev engineer iii amz10593798
+key:amazon|software dev engineer in test amazon leo payload
 key:amazon|software development engineer
 key:amazon|software development engineer amazon connect
 key:amazon|software development engineer amazon connect team
+key:amazon|software development engineer amazon customer service
 key:amazon|software development engineer amazon dedicated cloud early career 2026 amazon dedicated cloud adc
 key:amazon|software development engineer amazon dedicated cloud early career 2027 amazon dedicated cloud adc
 key:amazon|software development engineer amazon leo early career 2026
@@ -2295,6 +2344,7 @@ key:amentum|simulink software developer
 key:amentum|software developer
 key:amentum|software developer junior team 01
 key:amentum|software engineer junior
+key:american family insurance|associate technical engineer cloud technologies
 key:american oncology network|junior web developer
 key:american systems|java developer l
 key:american systems|navair software engineer developer
@@ -2322,6 +2372,7 @@ key:anori|full stack ai product engineer
 key:anori|full stack engineer 3d visualization
 key:anysignal|associate embedded software engineer
 key:apex technology|flight software engineer early
+key:apple|ar vr software engineer spatial system ui vision products software
 key:apple|cellular layer 1 control software development engineer wireless technologies ecosystems
 key:apple|cellular power optimization software engineer wireless technologies ecosystems
 key:apple|frontend engineer ee p is t early career
@@ -2421,6 +2472,7 @@ key:bask|junior front end software engineer
 key:bask|junior full stack engineer
 key:bask|junior full stack engineer merchant tools
 key:bask|software engineer early career
+key:baxter|software engineer
 key:bby app|founding software engineer
 key:becton dickinson and company|software engineer i
 key:belay technologies|junior software engineer
@@ -2457,11 +2509,13 @@ key:bodyspec|junior developer
 key:boeing|associate flight test data processing software engineer
 key:boeing|associate software engineer
 key:boeing|associate software test engineer p 8 mission systems
+key:boeing|embedded software engineer entry level
 key:boeing|entry flight software engineer vehicle management systems
 key:boeing|entry level flight simulation software engineer
 key:boeing|entry level software engineer
 key:boeing|entry level software engineer developer
 key:boeing|entry level software engineer developers
+key:boeing|entry level software engineer test verification
 key:boeing|mission systems ms software stores management computing sms manager
 key:boeing|software application tester
 key:boeing|software engineer associate or experienced
@@ -2470,6 +2524,7 @@ key:boeing|software systems engineer associate or experienced
 key:boeing|spacecraft software simulation test engineer millennium space systems
 key:boeing|systems software engineer associate or experienced
 key:booz allen|ai software developer junior
+key:booz allen|ai software developer mid
 key:booz allen|aircraft survivability equipment software engineer
 key:booz allen|c software engineer junior
 key:booz allen|cloud cybersecurity engineer
@@ -2657,6 +2712,7 @@ key:digital hands|associate devops engineer
 key:digitalcm|associate apple software developer
 key:direct supply|mobile software engineer
 key:direct supply|software engineer
+key:diversified services network|1121223 embedded software engineer entry level role
 key:dma|associate software support
 key:domino data lab|software engineer new grad 2027
 key:draftkings|software engineer december 2026 grads
@@ -2729,13 +2785,17 @@ key:fresh consulting|hardware software systems test engineer
 key:frontier technology|associate software developer early career student talent
 key:frontier technology|associate software developer transitioning navy service members
 key:frost bank|engineer i devops
+key:further|graduate program entry level analytics developer 2027
+key:further|graduate program entry level developer 2027
 key:galatea associates|entry level financial software consultant
 key:galaxy|site reliability engineer
 key:galaxy|site reliability engineer data centers
 key:garmin|android software engineer
+key:garmin|software engineer 1
 key:garmin|software engineer 2
 key:garmin|software engineer 2 c c
 key:garmin|software engineer 2 c maps platform
+key:garmin|software engineer 2 computer vision machine learning
 key:garmin|software engineer 2 ios or web development
 key:garmin|software engineer 2 ui
 key:garmin|software engineer fitness wearables
@@ -2822,6 +2882,7 @@ key:home depot|software engineer ii backend remote
 key:home depot|software engineer ii ml ai remote
 key:home depot|software engineer ii reliability engineering tooling remote
 key:home depot|software engineer ii remote
+key:home depot|software engineer ii salesforce engineering remote
 key:home depot|software engineer ii supply chain sourcing core remote
 key:horizon media|fullstack engineer
 key:housemax funding|junior ai application developer
@@ -2873,6 +2934,7 @@ key:independent software|azure cloud engineer entry level
 key:independent software|azure cloud engineer junior level
 key:inductive automation|software solutions engineer i
 key:inland empire health plan|developer i bi analytics
+key:inmar intelligence|software engineer
 key:innovative defense technologies|associate software engineer jobid 0186
 key:innovative defense technologies|software engineer jobid 0198
 key:insperity|associate software implementation analyst
@@ -2931,6 +2993,7 @@ key:journal technologies|junior software implementation specialist
 key:justworks|associate software engineer frontend
 key:kairos power|firmware development engineer
 key:karman|embedded firmware engineer
+key:katmai|information management specialist sharepoint developer jr
 key:kbr|entry level junior army fires modeling and simulation developer
 key:kbr|full stack software engineer golang focus
 key:kbr|full stack software engineer storage data platform focus
@@ -3048,6 +3111,7 @@ key:maximor ai|software engineer new grad
 key:medpace|entry level business analyst software development
 key:medpace|junior software engineer
 key:medpace|software qa test engineer etl tester
+key:medtronic|software engineer i crm
 key:medtronic|software quality engineer i
 key:medtronic|software quality engineer i reliability compliance
 key:medtronic|software test engineer i
@@ -3058,6 +3122,7 @@ key:mercury|software engineer ai experiences
 key:mercury|software engineer mercury command
 key:mercury|software engineer product
 key:metaphase consulting|junior servicenow developer
+key:meta|software engineer product
 key:metron|associate software engineer
 key:metron|software development engineer in test sdet
 key:mgm resorts|digital software engineer associate
@@ -3224,6 +3289,7 @@ key:openai|software engineer applied emerging talent 2027
 key:oppfi|software engineer i
 key:oracle|february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn
 key:oracle|site reliability engineer oci start date feb 2027
+key:oracle|spring 2027 start undergrad software engineer oracle cloud infrastructure oci nashville tn
 key:origin|qa software testing consultant remote opportunity philippines only
 key:orion innovation|devops architect
 key:orion steel|oracle apex developer hybrid
@@ -3243,6 +3309,8 @@ key:pangram labs|software engineer customer solutions
 key:parallel|full stack software engineer i
 key:parexel|scientist ii laboratory informatics vba developer fsp
 key:pariveda|entry level software engineer
+key:parsons|associate software engineer
+key:parsons|devops engineer
 key:parsons|software engineer secret required
 key:parsons|software engineer ts sci required
 key:path robotics|software engineer c
@@ -3428,6 +3496,7 @@ key:self financial|associate software engineer
 key:sel|software engineer c c linux security
 key:sentinel group|junior fullstack software engineer
 key:sep|software engineer 2027 start dates in person
+key:servicenow|assoc software engineer
 key:servicenow|associate software engineer
 key:servicenow|software engineer
 key:servicenow|software engineer agent eval platform
@@ -3520,6 +3589,7 @@ key:spacex|application software engineer flight software
 key:spacex|application software engineer launch software
 key:spacex|backend software engineer gnc starlink
 key:spacex|embedded software engineer satellite antenna starlink
+key:spacex|full stack software engineer build reliability
 key:spacex|full stack software engineer internal platforms
 key:spacex|full stack software engineer starlink
 key:spacex|new graduate engineer aerospace software starfall
@@ -3786,6 +3856,8 @@ key:woongjin|jr ai developer bilingual korean english
 key:wwex group|software engineer
 key:xai|software engineer linux kernel
 key:xfinity|entry level c software engineer reston va onsite 2x week freewheel
+key:xfinity|entry level software engineer reston va onsite 2 days per week freewheel
+key:xfinity|junior c software engineer 2 days onsite reston va freewheel
 key:xmstart|software expert
 key:xpert development|junior software engineer
 key:xperteez technology|software engineer data platforms remote
@@ -3809,4 +3881,5 @@ key:zoox|contract student worker software engineer 40 hrs wk
 key:zoox|embedded software engineer
 key:zoox|embedded software engineer body systems
 key:zoox|embedded software engineer drive systems
+key:zscaler|software development engineer
 key:zt systems|test software developer
