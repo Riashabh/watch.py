@@ -370,6 +370,7 @@ https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS
 https://cae.wd3.myworkdayjobs.com/en-US/career/job/Orlando/Software-Support-Engineering-Specialist-I_122349
 https://cae.wd3.myworkdayjobs.com/en-US/career/job/Wright-Patterson-AFB-OH/Software-Engineer_124607-1
 https://calistacorp.wd1.myworkdayjobs.com/en-US/yulista/job/Huntsville-AL/STSY---Azure-Cloud-Administrator-I_JR109459
+https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging
 https://calyxcontainers.applytojob.com/apply/JeajrFSAfK/Software-Tester-Entry-Level
 https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/cambridge_associates/job/Boston/Jr-Developer_JR0000457
 https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/handshake/job/Boston/Jr-Developer_JR0000457-2
@@ -2572,6 +2573,7 @@ key:cae|ats software engineer
 key:cae|mts software engineer
 key:cae|software engineer
 key:cae|software support engineering specialist i
+key:calyx containers|junior software developer print packaging
 key:calyx containers|software tester entry level
 key:cambridge associates|jr developer
 key:cambridge mobile telematics|software engineer i cloud
