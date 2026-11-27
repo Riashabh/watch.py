@@ -85,6 +85,8 @@ https://apply.careers.microsoft.com/careers/job/1970393557042249
 https://apply.careers.microsoft.com/careers/job/1970393557043616
 https://apply.careers.microsoft.com/careers/job/1970393557045516
 https://apply.careers.microsoft.com/careers/job/1970393557047485
+https://apply.careers.microsoft.com/careers/job/1970393557050055
+https://apply.starbucks.com/careers/job/481081792920
 https://apply.workable.com/ace-it-careers-1/j/2EC201994A/
 https://apply.workable.com/adept-consulting-services-inc/j/45F0E004ED/
 https://apply.workable.com/ajaia/j/CD4D14E6F6/
@@ -535,6 +537,9 @@ https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962
 https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357
 https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350510
 https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350824
+https://careers.qualcomm.com/careers/job/446721803210
+https://careers.qualcomm.com/careers/job/446722197774
+https://careers.qualcomm.com/careers/job/446722230518
 https://careers.roblox.com/jobs/8072244?gh_jid=8072244
 https://careers.roblox.com/jobs/8115917?gh_jid=8115917
 https://careers.roblox.com/jobs/8123004?gh_jid=8123004
@@ -1537,6 +1542,11 @@ https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Chicago-I
 https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981
 https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730
 https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683
+https://lockheedmartin.eightfold.ai/careers/job/996478015115
+https://lockheedmartin.eightfold.ai/careers/job/996478015124
+https://lockheedmartin.eightfold.ai/careers/job/996478043233
+https://lockheedmartin.eightfold.ai/careers/job/996478126701
+https://lockheedmartin.eightfold.ai/careers/job/996478132136
 https://logan-a-c-heat-services-b29ac6f9712d.breezy.hr/p/dcaae58041cb-junior-business-systems-automation-developer
 https://lplfinancial.wd1.myworkdayjobs.com/en-US/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475
 https://lthc.wd1.myworkdayjobs.com/en-US/cdphpcareers/job/Rochester/Salesforce-Developer_JR103956-3
@@ -1666,9 +1676,12 @@ https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Rosevill
 https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410
 https://omegahires.applytojob.com/apply/3UH7gb8F5h/Oracle-Cloud-Financials-Consultant
 https://omegahires.applytojob.com/apply/5UEJBckOFZ/Oracle-Cloud-Financials-ERP-Consultant-Remote-USA
+https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer
 https://omegahires.applytojob.com/apply/LM0EItNDBg/Python-Full-Stack-Developer-Azure-AI-Angular-React-Python
+https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer
 https://omegahires.applytojob.com/apply/NiyO6vtZ33/Java-Developer-Specialized-Platforms-And-Integrations
 https://omegahires.applytojob.com/apply/Pr1Ym0SXdQ/EntryLevel-Java-Software-Developer
+https://omegahires.applytojob.com/apply/QsNXxqCBJM/Azure-Cloud-Architect
 https://omegahires.applytojob.com/apply/Sb33V6jApo/Epicor-Kinetic-Cloud-Platform-Administrator
 https://omegahires.applytojob.com/apply/XSHgI5bXBG/Java-FullStack-Developer
 https://omegahires.applytojob.com/apply/mC7hcPbal2/Oracle-ARCS-And-Cloud-EPM-Reconciliation-Consultant
@@ -1861,6 +1874,9 @@ https://suddath.wd5.myworkdayjobs.com/en-US/suddath/job/JacksonvilleFlorida-Unit
 https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1
 https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496
 https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392
+https://synecsolu.applytojob.com/apply/bYBTaGZvZg/Software-Developer-III
+https://synecsolu.applytojob.com/apply/iEkrgj9sWZ/Software-Developer-II
+https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I
 https://talent-ipipeline.icims.com/jobs/1718/software-development-engineer-%28emerging-professionals-jan-2027%29/job
 https://talent-ipipeline.icims.com/jobs/1730/software-quality-engineer-%28emerging-professional-jan-2027%29/job
 https://talent-ipipeline.icims.com/jobs/1741/java-software-developer-%28entry-level%29/job
@@ -3184,6 +3200,7 @@ key:lineage logistics|associate report developer
 key:litellm|backend llm engineer
 key:litera|associate software engineer
 key:lmi innovation|junior power bi developer
+key:lockheed martin|software engineer early career
 key:lodestar|software engineer i ii iii simulations
 key:lodestar|software engineer i or ii state estimation prediction
 key:lodestar|software engineer localisation state estimation prediction i ii
@@ -3257,6 +3274,7 @@ key:microsoft|software engineer ctj poly
 key:microsoft|software engineer forward deployed engineer
 key:microsoft|software engineering
 key:microsoft|software engineering ic2
+key:microsoft|software solution engineer
 key:mill|firmware engineer
 key:milwaukee tool|design engineer front end innovation
 key:milwaukee tool|software engineer agentic ai automation
@@ -3388,11 +3406,14 @@ key:old mission capital|junior trading operations devops engineer
 key:old mission capital|software engineer 2027 graduate program august start
 key:old republic title|associate developer c net
 key:old republic title|title insurance software application support
+key:omegahires|azure cloud architect
 key:omegahires|cloud iam security engineer
 key:omegahires|entry level java software developer
 key:omegahires|epicor kinetic cloud platform administrator
+key:omegahires|gcp cloud operations engineer
 key:omegahires|java developer specialized platforms and integrations
 key:omegahires|java full stack developer
+key:omegahires|network devops engineer
 key:omegahires|oracle arcs and cloud epm reconciliation consultant
 key:omegahires|oracle cloud financials consultant
 key:omegahires|oracle cloud financials erp consultant remote usa
@@ -3492,6 +3513,9 @@ key:pwc|engineer ii google cloud
 key:pwc|forward deployed software engineer palantir foundry experienced associate
 key:pwc|google cloud engineer experienced associate
 key:pylon|software engineer new grad
+key:qualcomm|automation developer engineer
+key:qualcomm|dsp applications software engineer
+key:qualcomm|embedded audio software engineer
 key:qualtrics|software development engineer i data platform
 key:qualtrics|software engineer i
 key:qualtrics|software engineer i xmd
@@ -3743,6 +3767,7 @@ key:spruce|full stack software engineer new grad remote
 key:sri international|research engineer i ii embedded development engineer
 key:st onge|associate ai developer
 key:starbridge|software engineer federal
+key:starbucks|barista store 61393 crossroads st cloud
 key:state street|junior software engineer
 key:state street|software developer officer
 key:state street|software engineer rest api development officer
@@ -3771,6 +3796,9 @@ key:swift|jr software development engineer in test sdet
 key:symbotic|new grad robotics software engineer
 key:symbotic|software engineer core systems platform services
 key:syncreon consulting|full stack java developer java 17 or higher independents profiles only w2
+key:synectic solutions|software developer ii
+key:synectic solutions|software developer iii
+key:synectic solutions|software engineer i
 key:systems planning and analysis|software engineer
 key:t rowe price|associate software engineer
 key:tandem diabetes care|embedded software engineer i
